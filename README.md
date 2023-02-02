@@ -3,3 +3,7 @@
 This repository contains the solutions for the challenges and case studies in **[XPe bootcamp](https://www.xpeducacao.com.br/pos-graduacao/pos-cloud-computing)**!
 
 ## Modules
+
+### [Module 0 - Fundamentals of Cloud Computing](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AWS_Cloud/Module_0)
+
+### [Module 1 - Introduction to AWS and Basic IT infrastructure as a Service](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AWS_Cloud/Module_1)
