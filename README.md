@@ -15,3 +15,17 @@ This repository contains the solutions for the challenges and case studies in **
 ### [Module 4 - Solucoes de Seguranca, Governanca, Compliance e Migracao](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AWS_Cloud/Module_4)
 
 ### [Module Desafio](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AWS_Cloud/Module_Desafio)
+
+## Modules AZURE
+
+### [Module 0 - Fundamentos de Cloud Computing](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/Module_0)
+
+### [Module 1 - Introducao ao Azure e Infraestrutura Basica de TI como servicos](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/Module_1)
+
+### [Module 2 - Servicos de Armazenamento, Banco de Dados e Analytics](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/Module_2)
+
+### [Module 3 - Solucoes para Desenvolvimento e Ferramentas de Gerenciamento](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/Module_3)
+
+### [Module 4 - Solucoes de Seguranca, Governanca, Compliance e Migracao](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/Module_4)
+
+### [Module Desafio](https://github.com/pmarcelojr/pos-edc-xpe-cloud/tree/main/Bootcamp_AZURE_Cloud/**Module_4)
