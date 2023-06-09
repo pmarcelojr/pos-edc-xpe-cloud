@@ -2,7 +2,7 @@ Utilize os  link abaixo para realizar o download da gravacao compactada. Utilize
 
 ## Modules AWS
 
-### [Module 0 - Aquecimento](https://drive.google.com/file/d/1CXjerxwQt6qwZY0gLdB5gtepPAlhgrF1/view?usp=sharing)
+### [Module 0 - Aquecimento](https://drive.google.com/file/d/1CXjerxwQt6qwZY0gLdB5gtepPAlhgrF1/view?usp=sharing){target="_blank"}
 
 ### [Module 1 - Aula Interativa 01](https://drive.google.com/file/d/1BIcKV8yQ86dwSjMKwmrg356RvjUxJPX2/view?usp=sharing)
 
