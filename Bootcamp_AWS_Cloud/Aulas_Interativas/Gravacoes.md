@@ -1,4 +1,4 @@
-This repository contains the solutions for the challenges and case studies in **[XPe bootcamp](https://www.xpeducacao.com.br/pos-graduacao/pos-cloud-computing)**!
+Utilize os  link abaixo para realizar o download da gravacao compactada. Utilize com sabedoria - Obrigado
 
 ## Modules AWS
 
