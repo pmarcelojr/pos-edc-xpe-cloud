@@ -18,4 +18,6 @@ Utilize os  link abaixo para realizar o download da gravacao compactada. Utilize
 
 ### [Module 4 - Aula Interativa 01](https://drive.google.com/file/d/1_yPe3PbTauEMobzLzpdvD1OlD8yipZKs/view?usp=drive_link)
 
-### [Module 4 - Aula Interativa 02](https://drive.google.com/file/d/13xPjhcgKBCQ9JLx1Nz8uenWI3vpiCBF2/view?usp=sharing)
+### [Module 4 - Aula Interativa 02](https://drive.google.com/file/d/13xPjhcgKBCQ9JLx1Nz8uenWI3vpiCBF2/view?usp=drive_link)
+
+### [Module Desafio - Aula Interativa](https://drive.google.com/file/d/1yjhrLUxXub5tqNZW9AQrSxmfgocz3Vu7/view?usp=drive_link)
